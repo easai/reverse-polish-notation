@@ -6,13 +6,13 @@ The `reverse-polish-notation` program reads and evaluates mathematical expressio
 
 ---
 
-## 🔧 Compile the Program
+## Compile the Program
 
 To compile the source file and generate an executable (`a.exe`), use the following command:
 
 ```bash
 g++ .\reverse-polish-notation.cpp
-
+```
 ## Run the Executable
 Suppose we have the following RPN expression:
 ```text
